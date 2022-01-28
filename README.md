@@ -3,9 +3,7 @@
 # Mack_Python_Introducao
 Uma breve introdução prática aos ambientes de programação e à linguagem Python.
 
-[Último evento](https://github.com/Rogerio-mack/Mack_Python_Introducao/blob/main/s2022Jan.md)
-
-
 * **Parte 1**: Ambiente Google Colab, Variáveis, Controles de Fluxo (~2h)
 * **Parte 2**: Pacotes Pandas, Numpy, Matplotlib (~2h)
 
+[Último evento](https://github.com/Rogerio-mack/Mack_Python_Introducao/blob/main/s2022Jan.md)
