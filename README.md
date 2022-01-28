@@ -3,4 +3,7 @@
 # Mack_Python_Introducao
 Uma breve introdução prática aos ambientes de programação e à linguagem Python.
 
+[Última sessão](https://github.com/Rogerio-mack/Mack_Python_Introducao/blob/main/s2022Jan.md)
+
+[Dia 1]
 
