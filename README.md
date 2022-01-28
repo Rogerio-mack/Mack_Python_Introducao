@@ -8,4 +8,3 @@ Uma breve introdução prática aos ambientes de programação e à linguagem Py
 
 [Último evento](https://github.com/Rogerio-mack/Mack_Python_Introducao/blob/main/s2022Jan.md)
 
-![imagem](https://github.com/Rogerio-mack/Ling-de-Prog-para-Ciencia-de-Dados/blob/main/LP_Apresentacao.png?raw=true)
