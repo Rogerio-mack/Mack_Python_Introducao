@@ -10,7 +10,7 @@ Uma breve introdução prática aos ambientes de programação e à linguagem Py
 > Materiais
 
 * [**Parte 1**](https://colab.research.google.com/github/Rogerio-mack/Mack_Python_Introducao/blob/main/Python_1.ipynb): Ambiente Google Colab, Variáveis, Controles de Fluxo, NumPy (~2h)
-* **Parte 2**: Pacotes Pandas e Matplotlib (~2h)
+* [**Parte 2**](https://colab.research.google.com/github/Rogerio-mack/Mack_Python_Introducao/blob/main/Python_2.ipynb): Pacotes Pandas e Matplotlib (~2h)
 
 > Acesse a página do último evento com as gravações
 
